@@ -71,7 +71,7 @@ pm_buttons = [
             text="• 𝐋𝐨𝐫𝐝 •", url="https://t.me/M_R_C2"
         ),
         InlineKeyboardButton(
-            text="• 𝐉𝐚𝐦𝐭𝐡𝐨𝐧 •", url="https://t.me/jamthon"),
+            text="• 𝐉𝐚𝐦𝐭𝐡𝐨𝐧 •", url="https://t.me/RC_J2"),
     ],
 ]
 
@@ -92,7 +92,7 @@ gp_buttons = [
             text="• 𝐋𝐨𝐫𝐝 •", url="https://t.me/M_R_C2"
         ),
         InlineKeyboardButton(
-            text="• 𝐉𝐚𝐦𝐭𝐡𝐨𝐧 •", url="https://t.me/jamthon"),
+            text="• 𝐉𝐚𝐦𝐭𝐡𝐨𝐧 •", url="https://t.me/RC_J2"),
     ],
 ]
 
